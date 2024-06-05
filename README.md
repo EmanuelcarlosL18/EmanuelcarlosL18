@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao perfil 😁
 
  <div>
    <a href="https://github.com/EmanuelcarlosL18">
@@ -14,8 +14,8 @@
  
 <br>
  
-### me segue no linkedin!
+### me segue a gente nas redes social abaixo!
  
 <div> 
-  <a href="https://www.linkedin.com/in/emanuel-carlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanuel-carlos-b43041213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
